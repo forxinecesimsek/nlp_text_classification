@@ -1,6 +1,6 @@
 # Text Classification on Amazon Customer Reviews Dataset
 
-Establish a rate prediction model based on customer reviews using NLP techniques in order to show more consistent and helpful comments to customers in most appropriate order.
+Rate prediction model based on customer reviews using NLP techniques in order to show more consistent and helpful comments to customers in most appropriate order.
 
 ## Motivation: 
 
